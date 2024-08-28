@@ -19,3 +19,14 @@ Este trabalho é parte da disciplina de Arquitetura de Software ministrada pelo 
 
 - **Serviços Backend:**
   - **APIs RESTful:** Utilizadas para comunicação com serviços backend, fornecendo dados como informações sobre sintomas e locais de atendimento.
+  
+ ### 🧩 Componentes Principais
+- **Interface do Usuário (UI):**
+  - Desenvolvida utilizando **Ionic** e **Angular**, proporcionando uma experiência responsiva em dispositivos Android e iOS.
+
+- **Módulo Informativo sobre a Covid-19:**
+  - Fornece dados sobre sintomas, prevenção e procedimentos em caso de suspeita, atualizados via API externa.
+
+- **Mapa de Unidades de Saúde:**
+  - Utiliza APIs de geolocalização para mostrar unidades de saúde próximas, integrando dados de localização do usuário.
+
