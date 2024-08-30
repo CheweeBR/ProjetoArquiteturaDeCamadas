@@ -45,3 +45,14 @@ Este trabalho é parte da disciplina de Arquitetura de Software ministrada pelo 
 - **Suporte a Alta Demanda:**
   - O backend pode ser escalado utilizando serviços na nuvem, para lidar com picos de acesso em períodos de alta demanda, como novas ondas de infecção ou campanhas de vacinação.
 
+## 🚀 Sugestões de Melhorias
+
+### 🎨 Atualização da Interface
+- **Proposta:** Modernizar a UI utilizando componentes mais recentes do Ionic e Angular, além de implementar práticas de design responsivo para melhorar a usabilidade em diversos dispositivos.
+
+### 📚 Aperfeiçoamento da Documentação Técnica
+- **Proposta:** Expandir a documentação atual, incluindo guias de configuração, exemplos de uso, e casos de teste automatizados para facilitar a contribuição de novos desenvolvedores.
+
+### 🛠️ Introdução de Microsserviços
+- **Proposta:** Refatorar partes do backend para uma arquitetura baseada em microsserviços, permitindo uma melhor escalabilidade e manutenção dos diferentes módulos do aplicativo.
+
