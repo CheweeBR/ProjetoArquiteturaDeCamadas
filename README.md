@@ -66,3 +66,5 @@ Este projeto faz parte da disciplina de Arquitetura de Software, ministrada pelo
 
 ### 🗺️ Diagrama de Arquitetura
 - **Descrição:** Ilustra a interação entre os componentes do sistema, incluindo UI, APIs RESTful e serviços backend.
+
+- ![Descrição da Imagem](DiagramaArquitetura.png)
