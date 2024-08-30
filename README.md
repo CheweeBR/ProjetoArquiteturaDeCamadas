@@ -30,3 +30,18 @@ Este trabalho é parte da disciplina de Arquitetura de Software ministrada pelo 
 - **Mapa de Unidades de Saúde:**
   - Utiliza APIs de geolocalização para mostrar unidades de saúde próximas, integrando dados de localização do usuário.
 
+### 🏛️ 2.3 Padrões de Arquitetura
+
+- **MVC (Model-View-Controller):**
+  - O aplicativo segue o padrão MVC, com o Angular facilitando a separação entre a lógica de apresentação (View) e a lógica de negócios (Controller), enquanto os serviços RESTful atuam como Model.
+
+## 📈 3. Escalabilidade e Desempenho
+
+### 🔧 3.1 Estratégias de Otimização
+
+- **Otimização do Frontend:**
+  - Técnicas de carregamento progressivo podem ser adotadas para melhorar a experiência do usuário, especialmente em conexões limitadas.
+
+- **Suporte a Alta Demanda:**
+  - O backend pode ser escalado utilizando serviços na nuvem, para lidar com picos de acesso em períodos de alta demanda, como novas ondas de infecção ou campanhas de vacinação.
+
